@@ -1,4 +1,4 @@
-//META{"name":"Neutron X","description":"A fully customizable and compact theme, now sugar free!","author":"Spectra#7698","version":"6.0","source":"https://github.com/codedotspectra/discordneutron","website":"https://codedotspectra.github.io/me/"}*//{}
+//META{"name":"Undertale X","description":"A fully customizable and compact theme, now sugar Edit by 96Maciek96 !","author":"Spectra#7698","version":"6.0.6","source":"https://github.com/codedotspectra/themes","website":"https://codedotspectra.github.io/me/"}*//{}
 /*
 ███╗   ██╗███████╗██╗   ██╗████████╗██████╗  ██████╗ ███╗   ██╗    ██╗  ██╗
 ████╗  ██║██╔════╝██║   ██║╚══██╔══╝██╔══██╗██╔═══██╗████╗  ██║    ╚██╗██╔╝
@@ -16,19 +16,19 @@ If you enjoy using the theme, help spread the word!
 
 This theme is meant to be used with the dark version of discord
 ###################################################################################################*/
-@import url("https://raw.githack.com/codedotspectra/discordneutron/master/importCSS/xcore.css");
+@import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
 /*###################################################################################################*/
 :root {
     /* Images */
-    --bgImage: url('https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg');
-    --HomeButtonImg: url("https://raw.githubusercontent.com/codedotspectra/discordneutron/master/import/homeBtn.png");
+    --bgImage:url("http://pavbca.com/walldb/original/b/5/0/72127.jpg");
+    --HomeButtonImg:url("http://pixelartmaker.com/art/20d767223b52e02.png");
     --brightness: 0.4;
 
     /* font */
-    --customFont: 'Montserrat';
+    --customFont: 'Determination Mono';
 
     /* Colors */
-    --PrimaryColor01: rgb(32, 197, 119); /* Theme's color 01 */
+    --PrimaryColor01: rgb(30, 223, 223); /* Theme's color 01 */
     --PrimaryColorRGBA: rgba(32, 197, 119, 0.15); /* Theme's color 01 (transparent) */
     --PrimaryColor02: #07a8c5; /* Theme's color 02 */
     --DangerColor: #dc3545; /* Color showing a danger or an important action */
